@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380215662197",
+    "project_id": "project2androidapp",
+    "storage_bucket": "project2androidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380215662197:android:224fcde5096ad2e90f8a3c",
+        "android_client_info": {
+          "package_name": "dumidu.sumanasekara.projectone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380215662197-7q2ro63m3dqgp3fefk4uqd4gv7e4a3e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmJYfwVqrsZV2QL8M16e2nweF8L6PR-Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380215662197-7q2ro63m3dqgp3fefk4uqd4gv7e4a3e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
